@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+	<Name value="RestoreGameOptions"/>
+	<DisplayName value="RestoreGameOptions"/>
+	<Version value="1.0.0"/>
+	<Description value="Save and restore the new game settings"/>
+	<Author value="goemoncode"/>
+	<Website value=""/>
+</xml>
